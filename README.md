@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1155619351.svg)](https://doi.org/10.5281/zenodo.20547759) [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 # OpticalFlow3D 
 
 Biological structures are often amorphous and difficult-to-segment, making it a challenge to characterize their complex motion.  Optical flow can measure voxel-scale motion, providing a flexible tool for measuring a variety of biological structures over time. This repository contains three-dimensional optical flow implementations in both Python and MATLAB and provides guidance on using these tools.
