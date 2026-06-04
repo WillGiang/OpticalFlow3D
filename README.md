@@ -4,9 +4,11 @@ Biological structures are often amorphous and difficult-to-segment, making it a 
 
 !["Schematic overview of OpticalFlow3D"](FlowOverview.png)
 
-To learn more about using OpticalFlow3D to understand biological dynamics, please see the associated pre-print:
+To learn more about using OpticalFlow3D to understand biological dynamics, please see the associated pre-print and data collection:
 
-> Lee, Rachel M., Leanna R. Eisenman, Chad Hobson, Jesse S. Aaron, and Teng-Leong Chew. “Measuring Amorphous Motion: Application of Optical Flow to Three-Dimensional Fluorescence Microscopy Images.” *bioRxiv*, 2026. [https://doi.org/10.64898/2026.03.06.710169](https://doi.org/10.64898/2026.03.06.710169).
+> Lee, Rachel M., Leanna R. Eisenman, Chad Hobson, Jesse S. Aaron, and Teng-Leong Chew. “OpticalFlow3D: A tool for measuring amorphous motion in three-dimensional fluorescence microscopy images.” *bioRxiv*, 2026. [https://doi.org/10.64898/2026.03.06.710169](https://doi.org/10.64898/2026.03.06.710169).
+
+> Lee, Rachel; Eisenman, Leanna; Hobson, Chad; Aaron, Jesse; Chew, Teng-Leong (2026). Data supporting "OpticalFlow3D: A tool for measuring amorphous motion in three-dimensional fluorescence microscopy images". Janelia Research Campus. Collection. https://doi.org/10.25378/janelia.c.8499246.v1
 
 
 ## Usage Overview
